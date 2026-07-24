@@ -1,6 +1,6 @@
 # DecodeLabs — Data Analytics Internship Tasks
 
-**Auteur :** Khaoula
+**Auteur :** Khaoula Lougmi
 **Batch :** 2026
 **Programme :** Industrial Training Kit — DecodeLabs
 
