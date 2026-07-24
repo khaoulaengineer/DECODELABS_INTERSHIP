@@ -1,0 +1,9 @@
+
+=== RÉSUMÉ EXÉCUTIF ===
+- 1200 commandes analysées, pour un chiffre d'affaires total de 1,264,761.96.
+- Panier moyen (Average Order Value) : 1053.97.
+- Le produit générant le plus de revenu est : Chair.
+- Le mois avec le plus fort chiffre d'affaires est : 2024-06.
+- La méthode de paiement la plus utilisée est : Online (21.5% des commandes).
+- Des outliers ont été détectés sur TotalPrice 
+  -> à investiguer : anomalies de saisie ou véritables clients/commandes exceptionnelles.

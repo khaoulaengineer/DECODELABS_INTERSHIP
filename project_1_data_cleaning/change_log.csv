@@ -1,0 +1,6 @@
+Change ID,Description,Impact,Status
+CR001,Imputation de CouponCode manquant par 'No Coupon',"309 lignes concernées, aucune ligne supprimée",Resolved
+CR005,Standardisation des dates au format ISO 8601 (YYYY-MM-DD),1200 lignes,Resolved
+CR006,Nettoyage texte (trim + title case) sur 'CouponCode',891 lignes modifiées,Resolved
+CR007,Contrôle de cohérence TotalPrice = Quantity x UnitPrice,0 incohérence trouvée,Resolved
+CR008,Arrondi de UnitPrice et TotalPrice à 2 décimales,1200 lignes,Resolved
